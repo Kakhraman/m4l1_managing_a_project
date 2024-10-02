@@ -1,13 +1,14 @@
-Crimson
 Orange
-Blue
 Cyan
 Yellow
 Charcoal
 Khaki
-Coral
+Gold
 Silver
 Fuchsia
+Crimson
 Purple
 Brown
 Red
+Starlight
+Rose
